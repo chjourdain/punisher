@@ -1,0 +1,4 @@
+!com.punisher.balancer.model.MissileLauncher
+id: 1
+address: http://localhost:8084
+---

@@ -1,0 +1,32 @@
+!programmer
+name: gnostrenoff
+coords: 
+   x: 100
+   y: 50
+launcher: 
+   id: 1
+---
+!programmer
+name: lamoros
+coords: 
+   x: 210
+   y: 85
+launcher: 
+   id: 1
+---
+!programmer
+name: rlarroque
+coords: 
+   x: 110
+   y: 80
+launcher: 
+   id: 1
+---
+!programmer
+name: chjourdain
+coords: 
+   x: 10
+   y: 10
+launcher: 
+   id: 1
+---
